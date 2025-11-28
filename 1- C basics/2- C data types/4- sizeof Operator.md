@@ -1,5 +1,9 @@
 The memory size of a variable varies depending on the type that refers on how much space a type occupies in the computers memory.
 
+```
+sizeof(type or variable);
+```
+
 |Data Type|Size|
 |---|---|
 |`int`|2 or 4 bytes|
