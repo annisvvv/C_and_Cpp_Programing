@@ -25,14 +25,12 @@
             "id": "af59a1681845730e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "1- C Fundamentals/4- C operators/9- Ternary operator.md",
-                "mode": "source",
-                "source": false
+                "file": "1- C Fundamentals/2- C data types/10- Character arithmetic.pdf"
               },
-              "icon": "lucide-file",
-              "title": "9- Ternary operator"
+              "icon": "lucide-file-text",
+              "title": "10- Character arithmetic"
             }
           }
         ],
@@ -186,10 +184,12 @@
   },
   "active": "e4ae3c0808179862",
   "lastOpenFiles": [
+    "1- C Fundamentals/2- C data types/10- Character arithmetic.pdf",
+    "1- C Fundamentals/4- C operators/9- Ternary operator.md",
+    "1- C Fundamentals/2- C data types/9- Integer promotion.md",
     "1- C Fundamentals/4- C operators/8- Miscellaneous operators and map.md",
     "1- C Fundamentals/4- C operators/1- Operators.md",
     "1- C Fundamentals/2- C data types/4- sizeof Operator.md",
-    "1- C Fundamentals/4- C operators/9- Ternary operator.md",
     "1- C Fundamentals/4- C operators/2- Arithmetic operators.md",
     "1- C Fundamentals/4- C operators/3- Assignment operators.md",
     "1- C Fundamentals/4- C operators/4- Comparison operators.md",
@@ -210,14 +210,11 @@
     "1- C Fundamentals/2- C data types/5- Type conversion.md",
     "zFiles/Pasted image 20251128052850.jpg",
     "1- C Fundamentals/2- C data types/10- Character Arithmetic.md",
-    "1- C Fundamentals/2- C data types/9- Integer promotion.md",
-    "zFiles/Integer Promotions in C.pdf",
-    "zFiles/C - Character Arithmetic.pdf",
+    "1- C Fundamentals/2- C data types/9- Integer promotion.pdf",
     "1- C Fundamentals/2- C data types/1- Data types.md",
     "6- Socket Programming/2- How it work.md",
     "6- Socket Programming/1- Step for a connexion.md",
     "1- C Fundamentals/2- C data types/2- Format specifier.md",
-    "zC reference/Additional.md",
     "5- C with Assembly/GCC Inline Assembly.pdf",
     "5- C with Assembly",
     "6- Socket Programming",
