@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7- C Memory management/2- Storage classes.md",
+                "file": "C++/2- I and O stream/4- Manipulators.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2- Storage classes"
+              "title": "4- Manipulators"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 314.5
+    "width": 200
   },
   "right": {
     "id": "efd334edbe345704",
@@ -171,42 +171,42 @@
   },
   "active": "9202b644270802f2",
   "lastOpenFiles": [
-    "7- C Memory management/1- Dynamic memory management.md",
-    "4- Working with memory/2- C pointers/Additional information.md",
-    "4- Working with memory/2- C pointers/2- Initialization of pointer arrays.md",
-    "4- Working with memory/2- C pointers/3- Pointers and arrays.md",
-    "4- Working with memory/2- C pointers/1- Creating pointers.md",
-    "2- C Decision making/4- C for loop/1- For loop.md",
-    "1- C Fundamentals/5- C arrays/1- Arrays.md",
-    "1- C Fundamentals/5- C arrays/4- Multidimensional arrays.md",
-    "1- C Fundamentals/5- C arrays/3- Array loop.md",
-    "1- C Fundamentals/5- C arrays/2- Array size.md",
-    "6- Socket Programming/3- Complete guide.md",
-    "6- Socket Programming/2- How it work.md",
-    "6- Socket Programming/1- Step for a connexion.md",
-    "5- C with Assembly/Standalone assembly.md",
-    "5- C with Assembly/GCC Inline Assembly.pdf",
-    "7- C Memory management/2- Storage classes.md",
-    "3- C functions/2- Function parameters.md",
-    "7- C Memory management",
-    "3- C functions/1- Functions.md",
-    "2- C Decision making/5- break & continue & goto/3- Goto.md",
-    "2- C Decision making/5- break & continue & goto/2- Continue.md",
-    "2- C Decision making/5- break & continue & goto/1- Break.md",
-    "2- C Decision making/6- C do while loop/Do while loop.md",
-    "2- C Decision making/6- C do while loop",
-    "2- C Decision making/2- C switch/Switch.md",
-    "1- C Fundamentals/4- C operators/8- Miscellaneous operators and map.md",
-    "1- C Fundamentals/2- C data types/7- Boolean.md",
-    "1- C Fundamentals/2- C data types/9- Integer promotion.pdf",
-    "1- C Fundamentals/2- C data types/10- Character Arithmetic.md",
-    "1- C Fundamentals/2- C data types/10- Character arithmetic.pdf",
-    "1- C Fundamentals/4- C operators/9- Ternary operator.md",
+    "C++/2- I and O stream/3- cout.md",
+    "C++/2- I and O stream/4- Manipulators.md",
+    "C++/2- I and O stream/2- cin.md",
+    "C++/2- I and O stream/1- Input Output operators.md",
+    "C++/2- I and O stream",
+    "C++/1- Basics/3- constants.md",
+    "C++/1- Basics/1- Getting started.md",
+    "C++/1- Basics/2- basic syntax.md",
+    "C++/1- Basics",
+    "C/7- C Memory management/1- Dynamic memory management.md",
+    "C++",
+    "C",
+    "C/7- C Memory management/2- Storage classes.md",
+    "C/4- Working with memory/2- C pointers/Additional information.md",
+    "C/4- Working with memory/2- C pointers/2- Initialization of pointer arrays.md",
+    "C/4- Working with memory/2- C pointers/3- Pointers and arrays.md",
+    "C/4- Working with memory/2- C pointers/1- Creating pointers.md",
+    "C/2- C Decision making/4- C for loop/1- For loop.md",
+    "C/1- C Fundamentals/5- C arrays/1- Arrays.md",
+    "C/1- C Fundamentals/5- C arrays/4- Multidimensional arrays.md",
+    "C/1- C Fundamentals/5- C arrays/3- Array loop.md",
+    "C/1- C Fundamentals/5- C arrays/2- Array size.md",
+    "C/6- Socket Programming/3- Complete guide.md",
+    "C/6- Socket Programming/2- How it work.md",
+    "C/6- Socket Programming/1- Step for a connexion.md",
+    "C/5- C with Assembly/Standalone assembly.md",
+    "C/5- C with Assembly/GCC Inline Assembly.pdf",
+    "C/3- C functions/2- Function parameters.md",
+    "C/7- C Memory management",
+    "C/3- C functions/1- Functions.md",
+    "C/2- C Decision making/5- break & continue & goto/3- Goto.md",
+    "C/2- C Decision making/5- break & continue & goto/2- Continue.md",
+    "C/2- C Decision making/6- C do while loop",
+    "C/1- C Fundamentals/2- C data types/9- Integer promotion.pdf",
+    "C/1- C Fundamentals/2- C data types/10- Character arithmetic.pdf",
     "zFiles",
-    "4- Working with memory",
-    "2- C Decision making",
-    "zFiles/Pasted image 20251128052850.jpg",
-    "5- C with Assembly",
-    "6- Socket Programming"
+    "zFiles/Pasted image 20251128052850.jpg"
   ]
 }

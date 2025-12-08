@@ -1,0 +1,1 @@
+C++ programing is similar to C is some of the syntax. However C++ offers more functionality than C like classes.
